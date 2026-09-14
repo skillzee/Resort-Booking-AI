@@ -1,0 +1,15 @@
+D:\coding\Resort Booking\OnlineResortBooking.Application\bin\Debug\net10.0\OnlineResortBooking.Application.deps.json
+D:\coding\Resort Booking\OnlineResortBooking.Application\bin\Debug\net10.0\OnlineResortBooking.Application.dll
+D:\coding\Resort Booking\OnlineResortBooking.Application\bin\Debug\net10.0\OnlineResortBooking.Application.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Application\bin\Debug\net10.0\OnlineResortBooking.Domain.dll
+D:\coding\Resort Booking\OnlineResortBooking.Application\bin\Debug\net10.0\OnlineResortBooking.Domain.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.csproj.AssemblyReference.cache
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.AssemblyInfoInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.AssemblyInfo.cs
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.csproj.CoreCompileInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineRe.F0418710.Up2Date
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.dll
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\refint\OnlineResortBooking.Application.dll
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\OnlineResortBooking.Application.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Application\obj\Debug\net10.0\ref\OnlineResortBooking.Application.dll

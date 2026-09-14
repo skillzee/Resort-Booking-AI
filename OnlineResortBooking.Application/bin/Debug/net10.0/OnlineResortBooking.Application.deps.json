@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OnlineResortBooking.Application/1.0.0": {
+        "dependencies": {
+          "OnlineResortBooking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnlineResortBooking.Application.dll": {}
+        }
+      },
+      "OnlineResortBooking.Domain/1.0.0": {
+        "runtime": {
+          "OnlineResortBooking.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineResortBooking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineResortBooking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

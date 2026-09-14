@@ -1,0 +1,17 @@
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Infrastructure.deps.json
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Infrastructure.dll
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Infrastructure.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Application.dll
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Domain.dll
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Application.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\bin\Debug\net10.0\OnlineResortBooking.Domain.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.csproj.AssemblyReference.cache
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.AssemblyInfoInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.AssemblyInfo.cs
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.csproj.CoreCompileInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineRe.FBF44E64.Up2Date
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.dll
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\refint\OnlineResortBooking.Infrastructure.dll
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\OnlineResortBooking.Infrastructure.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Infrastructure\obj\Debug\net10.0\ref\OnlineResortBooking.Infrastructure.dll

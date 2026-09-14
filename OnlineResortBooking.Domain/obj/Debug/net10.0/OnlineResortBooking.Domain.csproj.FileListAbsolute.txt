@@ -1,0 +1,11 @@
+D:\coding\Resort Booking\OnlineResortBooking.Domain\bin\Debug\net10.0\OnlineResortBooking.Domain.deps.json
+D:\coding\Resort Booking\OnlineResortBooking.Domain\bin\Debug\net10.0\OnlineResortBooking.Domain.dll
+D:\coding\Resort Booking\OnlineResortBooking.Domain\bin\Debug\net10.0\OnlineResortBooking.Domain.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.AssemblyInfoInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.AssemblyInfo.cs
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.csproj.CoreCompileInputs.cache
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.dll
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\refint\OnlineResortBooking.Domain.dll
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\OnlineResortBooking.Domain.pdb
+D:\coding\Resort Booking\OnlineResortBooking.Domain\obj\Debug\net10.0\ref\OnlineResortBooking.Domain.dll

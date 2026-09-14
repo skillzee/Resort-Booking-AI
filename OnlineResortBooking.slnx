@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OnlineResortBooking.Api/OnlineResortBooking.Api.csproj" />
+  <Project Path="OnlineResortBooking.Application/OnlineResortBooking.Application.csproj" />
+  <Project Path="OnlineResortBooking.Domain/OnlineResortBooking.Domain.csproj" />
+  <Project Path="OnlineResortBooking.Infrastructure/OnlineResortBooking.Infrastructure.csproj" />
+</Solution>
